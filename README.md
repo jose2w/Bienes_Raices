@@ -11,4 +11,4 @@ Aplicación web desarrollada con React que simula una plataforma inmobiliaria pa
 
 📦 Vite / Create React App (según tu configuración)
 
-🌐 Despliegue en Netlify
+🌐 https://binenes-raices.netlify.app/
